@@ -9,3 +9,5 @@ Playlist Link : https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyV
 -StaticAndDynamicPolymorphism.cpp here is the complete code for understanding OOPS. Lec 3 
 
 -sir aap mujhe objects bata dijiye ki kya kya honge code mai implement kr dunga relationship soch ke
+-high level module- deals with business logic
+-low level module- deals with system logic
