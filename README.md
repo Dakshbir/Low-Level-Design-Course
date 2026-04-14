@@ -14,4 +14,5 @@ Playlist Link : https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyV
 
 -low level module- deals with system logic
 
+a is the name of the pointer which points to an objcet which is declared in the heap memory
 -<img width="1096" height="644" alt="image" src="https://github.com/user-attachments/assets/c4de3897-2c42-495a-bad8-6135ddea3cc8" />
